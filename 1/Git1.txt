@@ -1,0 +1,4 @@
+1-Make a new repository on GitHub
+2-Copy the repo's link from clone or download
+3-Open the CMD
+4-Follow pictures

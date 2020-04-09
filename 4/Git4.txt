@@ -1,0 +1,4 @@
+Get updates from the remote to local using ( pull )
+git pull (remote) 
+*git pull origin
+// pull = fetch + merge

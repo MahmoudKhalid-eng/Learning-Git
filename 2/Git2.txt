@@ -1,0 +1,10 @@
+git status : what is happenning in the directory
+* git status
+follow picture 1
+directory>>staging area>>local repo>>remote repo
+git add * : take the files from directory to the staging area
+* git add *
+git reset head file_name : remove file from staging area
+* git reset head HELLO
+git commit : take the files from staging area to local repo
+* git commit -m "Hello"	
